@@ -11,6 +11,9 @@ def reverse_each_word (my_sentence)
   
   my_array.join(" ")
   
+  return my_array
+  
+  
 end
   
   
