@@ -9,7 +9,7 @@ def reverse_each_word (my_sentence)
   
   end 
   
-  my_sentence.join(" ")
+  my_array.join(" ")
   
 end
   
